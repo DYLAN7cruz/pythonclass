@@ -31,3 +31,13 @@ else:
 # finally se ejecuta siempre sin importar que el progarmas este bien o con errores
 finally:
     print("finally - Fin del programa")
+
+# ----------------------------------------------------------------------------------------------------------------   
+
+# raise
+# excepciones personalizadas
+
+# arquitectura hexagonal 
+
+# mvc:  crear un modelo vista controlador, pequeño ejemplo, todo orientado a objetos, sin ningun framwork, sql lite
+# investigar pip, libreria de python
