@@ -1,5 +1,4 @@
 # es la logica del la aplicacion , almaceno los datos o interactua con una base
-from excepciones import UsuarioInvalidoError, UsuarioError, UsuarioNoEncontradoError
 
 class Usuario:
     def __init__(self, nombre, edad):

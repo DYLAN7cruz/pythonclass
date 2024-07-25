@@ -24,3 +24,5 @@ class Controlador:
             self.vista.mostrar_usuarios(usuarios)
         except UsuarioNoEncontradoError as e:
             self.vista.mostrar_mensaje(f"Error: {e}")
+
+            

@@ -34,7 +34,7 @@ finally:
 
 # ----------------------------------------------------------------------------------------------------------------   
 
-# raise
+# raise 
 # excepciones personalizadas
 
 # arquitectura hexagonal 

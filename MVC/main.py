@@ -24,3 +24,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# arquitectura hexagonal.
+# como usar las excepciones en una arquitectura hexagonal.
