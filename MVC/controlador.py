@@ -2,7 +2,7 @@
 from modelo import Usuario, GestionUsuarios
 from vista import Vista
 from excepciones import UsuarioInvalidoError, UsuarioNoEncontradoError
-
+  
 class Controlador:
     def __init__(self):
         self.modelo = GestionUsuarios()

@@ -2,8 +2,7 @@
 
 class Usuario:
     def __init__(self, nombre, edad):
-        # if not nombre or edad < 0:
-        #     raise UsuarioInvalidoError("Nombre no puede estar vacío y edad debe ser positiva.")
+       
         self.nombre = nombre
         self.edad = edad
 
