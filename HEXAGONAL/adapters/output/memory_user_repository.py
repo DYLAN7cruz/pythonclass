@@ -13,3 +13,4 @@ class MemoryUserRepository(UserRepository):
     def get_users(self):
         """ Obtiene todos los usuarios de la lista en memoria """
         return self.users
+
